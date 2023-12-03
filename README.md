@@ -15,4 +15,4 @@ Hi Here are some ideas to get you started:
 - ⚡ Fun fact: looks like Chinese or Korean
 
 <hr>
-<a href="https://linkedin.com/in/xecureyan">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
