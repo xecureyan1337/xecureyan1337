@@ -12,4 +12,4 @@ Hi Here are some ideas to get you started:
 - ⚒️ I’m looking to collaborate on projects based on skills being learned
 - 📫 How to reach me: Instagram, LinkedIN, Telegram
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: looks like Chinese or Japanese
+- ⚡ Fun fact: looks like Chinese or Korean
