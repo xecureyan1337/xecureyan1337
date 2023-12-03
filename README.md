@@ -10,6 +10,6 @@ Hi Here are some ideas to get you started:
 - 🧑‍🎓 I'm currently university students in Indonesia 🇮🇩
 - 🌱 I’m currently learning cyber security and programming languages (python, java)
 - ⚒️ I’m looking to collaborate on projects based on skills being learned
-- 📫 How to reach me: Instagram, <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />, Telegram
+- 📫 How to reach me: Instagram, ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white), Telegram
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: looks like Chinese or Korean
