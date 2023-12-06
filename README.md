@@ -12,7 +12,7 @@ Hi Here are some ideas to get you started:
 
 </div>
 
-[https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif](https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif)
+![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e)
 
 <!-- 🔭 I’m currently working on ...-->
 - 🧑‍🎓 I'm currently university student in Indonesia 🇮🇩
