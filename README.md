@@ -12,13 +12,14 @@ Hi Here are some ideas to get you started:
 
 </div>
 
-<!-- 🔭 I’m currently working on ...-->
-- 🧑‍🎓 I'm currently university students in Indonesia 🇮🇩
-- 🌱 I’m currently learning cyber security (red team) and programming languages (python, java)
-- ⚒️ I’m looking to collaborate on projects based on skills being learned <!-- 📫 How to reach me: -->
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: looks like Chinese or Korean
+[https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif](https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif)
 
+<!-- 🔭 I’m currently working on ...-->
+- 🧑‍🎓 I'm currently university student in Indonesia 🇮🇩
+- 🚀 I've been learning cyber security (red team) and programming languages (python, java) for 2 years
+- 🖥️ I've been using operating system linux and windows for 2 years
+- ⚒️ I’m looking to collaborate on projects based on skills being learned <!-- 📫 How to reach me: -->
+- ⚡ Fun fact: looks like Chinese or Korean, curious and learning new things
 <!-- --- -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=realalf1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
