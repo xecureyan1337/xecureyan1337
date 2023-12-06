@@ -17,7 +17,12 @@ Hi Here are some ideas to get you started:
 - 🧑‍🎓 I'm currently university student in Indonesia 🇮🇩
 - 🚀 I've been learning cyber security (red team) and programming languages (python, java) for 2 years
 - 🖥️ I've been using operating system linux and windows for 2 years
-![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e)
+<div align="right">   
+  
+  ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e)
+  
+</div>
+
 - ⚒️ I’m looking to collaborate on projects based on skills being learned <!-- 📫 How to reach me: -->
 - ⚡ Fun fact: looks like Chinese or Korean, curious and learning new things
 <!-- --- -->
