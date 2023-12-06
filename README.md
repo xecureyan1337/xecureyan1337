@@ -12,7 +12,7 @@ Hi Here are some ideas to get you started:
 
 </div>
 
-<div align="center">
+<div align="right">
 <!-- 🔭 I’m currently working on ...-->
   - 🧑‍🎓 I'm currently university student in Indonesia 🇮🇩
   - 🚀 I've been learning cyber security (red team) and programming languages (python, java) for 2 years
