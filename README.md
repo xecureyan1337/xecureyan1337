@@ -20,7 +20,7 @@ Hi Here are some ideas to get you started:
   🚀 I've been learning cyber security (red team) and programming languages (python, java) for 2 years </br>
   🖥️ I've been using operating system linux and windows for 2 years </br>
   ⚒️ I’m looking to collaborate on projects based on skills being learned  </br> <!-- 📫 How to reach me: -->
-  ⚡ Fun fact: looks like Chinese or Korean, curious and learning new things
+  ⚡ Fun fact: looks like Chinese or Korean, curious and learning new things </br>
 </div>  
 <!-- --- -->
 
