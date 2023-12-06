@@ -7,7 +7,7 @@ Hi Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <div alin="left">
+  <div align="left">
   
   ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e)
   
