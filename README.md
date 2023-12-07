@@ -17,9 +17,10 @@ Hi Here are some ideas to get you started:
 <div align="left">
 <!-- 🔭 I’m currently working on ...-->
   🧑‍🎓 I'm currently university student in Indonesia 🇮🇩 </br>
-  🚀 I've been learning cyber security (red team) and programming languages (python, java) for 2 years </br>
+  🚀 I've been learning cyber security (red team) for 2 years</br>
+  🧑‍💻 I've been learning programming languages (c++, python, java) </br>
   🖥️ I've been using operating system linux for 2 years </br>
-  ⚒️ I’m looking to collaborate on projects based on skills being learned  </br> <!-- 📫 How to reach me: -->
+  ⚒️ I’m looking to collaborate based on skills are being learned  </br> <!-- 📫 How to reach me: -->
   🧣 I'd like to learn new things in cyber space </br>
 </div>  
 
