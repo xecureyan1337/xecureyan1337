@@ -18,10 +18,9 @@ Hi Here are some ideas to get you started:
 <!-- 🔭 I’m currently working on ...-->
   🧑‍🎓 I'm currently university student in Indonesia 🇮🇩 </br>
   🚀 I've been learning cyber security (red team) for 2 years</br>
-  🧑‍💻 I've been learning programming languages (c++, python, java) </br>
-  🖥️ I've been using operating system linux for 2 years </br>
-  ⚒️ I’m looking to collaborate based on skills are being learned  </br> <!-- 📫 How to reach me: -->
-  🧣 I'd like to learn new things in cyber space </br>
+  🧑‍💻 I've already learned programming languages (c++, python, java) </br>
+  🖥️ I've been using operating system linux for 2 years </br> <!-- 📫 How to reach me: -->
+  🧣 I'd like to learn new things especially IT Security </br>
 </div>  
 
 ---
