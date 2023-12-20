@@ -13,7 +13,8 @@ Hi Here are some ideas to get you started:
 </div>
   
 <div>
-<!-- 🔭 I’m currently working on ...-->
+  <h3 align="left">About Me:</h3>
+  <!-- 🔭 I’m currently working on ...-->
   🧑‍🎓 I'm currently university student in Indonesia 🇮🇩 </br>
   🚀 I've been learning cyber security (red team) for 2 years</br>
   🧑‍💻 I've already learned programming languages (c++, python, java) </br>
@@ -21,12 +22,9 @@ Hi Here are some ideas to get you started:
   🧣 I'd like to learn new things especially IT Security </br></br>
 
   <h3 align="left">Connect with me:</h3>
-  
   <a href="https://linkedin.com/in/xecureyan">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://instagram.com/xecureyan">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
   <a href="https://t.me/realalf1">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-
-  </h3>
   
 </div>  
 
