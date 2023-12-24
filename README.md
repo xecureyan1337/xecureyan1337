@@ -17,7 +17,7 @@ Hi Here are some ideas to get you started:
   <!-- 🔭 I’m currently working on ...-->
   🧑‍🎓 A university student 21 years old 🇮🇩 </br>
   🚀 I have been learning cyber security (red team) for 2 years</br>
-  🖥️ I have been using linux operating system based debian for 2 years </br> <!-- 📫 How to reach me: -->
+  🖥️ I have been using linux operating system (debian) for 2 years </br> <!-- 📫 How to reach me: -->
   🧣 I enjoy to learn new things especially IT Security </br>
 
   ## ⚙️ Language
