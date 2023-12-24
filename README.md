@@ -5,16 +5,17 @@
 
 Hi Here are some ideas to get you started:
 -->
-  <div align="left">
+  <div align="center">
 
-  ### ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e) Hi 👋, I am Muhammad Alfiyan
+  ### ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e) 
+  ### Hi 👋, I am Muhammad Alfiyan
   
   </div>
 
   ## 🧑‍💻 About
 
   <!-- 🔭 I’m currently working on ...-->
-  🧑‍🎓 I am university student in Indonesia 🇮🇩 </br>
+  🧑‍🎓 A university student 21 years old 🇮🇩 </br>
   🚀 I have been learning cyber security (red team) for 2 years</br>
   🖥️ I have been learning linux operating system for 2 years </br> <!-- 📫 How to reach me: -->
   🧣 I enjoy to learn new things especially IT Security </br>
