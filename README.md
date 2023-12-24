@@ -5,27 +5,29 @@
 
 Hi Here are some ideas to get you started:
 -->
-  <div align="right">
+  <div align="left">
+
+  ### ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e) Hi 👋, I am Muhammad Alfiyan
   
-  ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e) <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   </div>
 
   ## 🧑‍💻 About
 
   <!-- 🔭 I’m currently working on ...-->
-  🧑‍🎓 I'm currently university student in Indonesia 🇮🇩 </br>
-  🚀 I've been learning cyber security (red team) for 2 years</br>
-  🧑‍💻 I've already learned programming languages (c++, python, java) </br>
-  🖥️ I've been using operating system linux for 2 years </br> <!-- 📫 How to reach me: -->
-  🧣 I'd like to learn new things especially IT Security </br>
+  🧑‍🎓 I am university student in Indonesia 🇮🇩 </br>
+  🚀 I have been learning cyber security (red team) for 2 years</br>
+  🖥️ I have been learning linux operating system for 2 years </br> <!-- 📫 How to reach me: -->
+  🧣 I enjoy to learn new things especially IT Security </br>
 
-  <h3>🔗 Connect</h3>
-
-  <div align="left">
+  ## ⚙️ Language
   
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+
+  <div align="center">
+    
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xecureyan)
   [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instgram.com/xecureyan)
-  
+    
   </div>
   
 </div>  
