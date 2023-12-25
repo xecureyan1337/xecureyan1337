@@ -9,6 +9,7 @@ Hi Here are some ideas to get you started:
 
   ### ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e) 
   ### Hi 👋, I am Muhammad Alfiyan
+  #### ``Ketika muda kita habisi dengan bermalas-malasan, maka tua juga akan malas-malasan lalu tak terasa esok mati. Namun, kalau kita banyak belajar dan banyak analisis maka saat dia tua dia menang. - BJ. Habibie``
   
   </div>
 
@@ -16,13 +17,19 @@ Hi Here are some ideas to get you started:
 
   <!-- 🔭 I’m currently working on ...-->
   🧑‍🎓 A university student 21 years old 🇮🇩 </br>
-  🚀 I have been learning cyber security (red team) for 2 years</br>
-  🖥️ I have been using linux operating system (debian) for 2 years </br> <!-- 📫 How to reach me: -->
-  🧣 I enjoy to learn new things especially IT Security </br>
+  🚀 have been learning cyber security (red team) for 2 years</br>
+  🖥️ have been using linux operating system (debian) for 2 years </br> <!-- 📫 How to reach me: -->
+  🧣 enjoy to learn new things especially IT Security </br>
 
   ## ⚙️ Language and Tools
   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/></a> 
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node js" width="30" height="30" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /></a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="30" height="30" /></a>
 
   <div align="center">
     
