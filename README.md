@@ -44,6 +44,5 @@ Hi Here are some ideas to get you started:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=realalf1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanto" alt="yanto" /></a> </p>
--->
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=realalf1)](https://github.com/anuraghazra/github-readme-stats)                -->
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanto" alt="yanto" /></a> </p> -->
