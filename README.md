@@ -32,13 +32,13 @@ Hi Here are some ideas to get you started:
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="30" height="30" /></a>
   <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="30" height="30" />
 
-  ## Connect with me
+  ## Social Media
     
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xecureyan)
-  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instgram.com/xecureyan)
+  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xecureyan)
 
   ## Stats
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&size_weight=0.5&count_weight=0.5&layout=donut)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,css)
   
 </div>  
 
