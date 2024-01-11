@@ -40,6 +40,8 @@ Hi Here are some ideas to get you started:
   ## Stats
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,css)
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realalf1&show_icons=true&theme=chartreuse-dark)
+  
 </div>  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=realalf1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
