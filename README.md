@@ -13,7 +13,7 @@ Hi Here are some ideas to get you started:
   
   </div>
 
-  ## 🧑‍💻 About
+  ## About
 
   <!-- 🔭 I’m currently working on ...-->
   🧑‍🎓 A university student 21 years old 🇮🇩 </br>
@@ -21,7 +21,7 @@ Hi Here are some ideas to get you started:
   🖥️ have been using linux operating system (debian) for 2 years </br> <!-- 📫 How to reach me: -->
   🧣 enjoy to learn new things especially IT Security </br>
 
-  ## ⚙️ Language and Tools
+  ## Language and Tools
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a> 
@@ -32,12 +32,13 @@ Hi Here are some ideas to get you started:
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="30" height="30" /></a>
   <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="30" height="30" />
 
-  <div align="center">
+  ## Connect with me
     
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xecureyan)
   [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instgram.com/xecureyan)
-    
-  </div>
+
+  ## Stats
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&size_weight=0.5&count_weight=0.5&layout=donut)
   
 </div>  
 
