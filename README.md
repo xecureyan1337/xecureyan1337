@@ -8,6 +8,7 @@ Hi Here are some ideas to get you started:
   <div align="center">
 
   ### ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e)
+  [![wakatime](https://wakatime.com/badge/user/018cf740-aa90-4fb4-87ae-c6a2917b2dbf.svg)](https://wakatime.com/@018cf740-aa90-4fb4-87ae-c6a2917b2dbf)
   ### Hi 👋, I am Muhammad Alfiyan
   #### ``Ketika muda kita habisi dengan bermalas-malasan, maka tua juga akan malas-malasan lalu tak terasa esok mati. Namun, kalau kita banyak belajar dan banyak analisis maka saat dia tua dia menang. - BJ. Habibie``
   
