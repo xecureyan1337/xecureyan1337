@@ -1,0 +1,4 @@
+.github-markdown-body {
+  font-family: 'gohu', sans-serif;
+  font-size: 16px;
+}
