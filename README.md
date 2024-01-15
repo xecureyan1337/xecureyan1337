@@ -37,7 +37,7 @@ Hi Here are some ideas to get you started:
   
   ### Social Media
     
-  ### <a href="https://www.linkedin.com/in/xecureyan/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"></a> <a href="https://www.instagram.com/xecureyan/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"></a>
+  ### <a href="https://www.linkedin.com/in/xecureyan/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a> <a href="https://www.instagram.com/xecureyan/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
 
   ![rainbow](https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76)
   
