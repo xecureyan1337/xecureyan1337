@@ -40,7 +40,7 @@ Hi Here are some ideas to get you started:
   ![rainbow](https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76)
   
   ### Status
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&size_weight=0.5&count_weight=0.5&hide=html,css)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&layout=compact&size_weight=0.5&count_weight=0.5&hide=html,css)
   
 </div>  
 
