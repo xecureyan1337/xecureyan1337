@@ -46,9 +46,8 @@ Hi Here are some ideas to get you started:
 
   ![rainbow](https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76)
   
-  ### Profile Status
-  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,css)-->
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=realalf1)](https://github.com/anuraghazra/github-readme-stats)
+  ### Status
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&size_weight=0.5&count_weight=0.5&hide=html,css)
   
 </div>  
 
