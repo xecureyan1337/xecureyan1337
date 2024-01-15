@@ -12,8 +12,10 @@ Hi Here are some ideas to get you started:
   <a href="https://t.me/realalf1"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/xecureyan/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
   <a href="https://instagram.com/xecureyan"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+
+  <!--source: https://readme-typing-svg.demolab.com/demo/-->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?weight=300&duration=2500&pause=500&color=00FF03&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Muhammad+Alfiyan;University+Student;Security+Researcher)](https://git.io/typing-svg)
   
-  ### Hi 👋, I am Muhammad Alfiyan
   #### ``Ketika muda kita habisi dengan bermalas-malasan, maka tua juga akan malas-malasan lalu tak terasa esok mati. Namun, kalau kita banyak belajar dan banyak analisis maka saat dia tua dia menang. - BJ. Habibie``
   
   </div>
