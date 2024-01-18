@@ -16,8 +16,6 @@ Hi Here are some ideas to get you started:
   <!--source: https://readme-typing-svg.demolab.com/demo/-->
   [![Typing SVG](https://readme-typing-svg.demolab.com?weight=300&duration=2500&pause=500&color=00FF03&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Muhammad+Alfiyan;University+Student;Security+Researcher)](https://git.io/typing-svg)
   
-  #### ``Ketika muda kita habisi dengan bermalas-malasan, maka tua juga akan malas-malasan lalu tak terasa esok mati. Namun, kalau kita banyak belajar dan banyak analisis maka saat dia tua dia menang. - BJ. Habibie``
-  
   </div>
 
   ![rainbow](https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76)
