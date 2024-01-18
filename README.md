@@ -17,8 +17,6 @@ Hi Here are some ideas to get you started:
   [![Typing SVG](https://readme-typing-svg.demolab.com?weight=300&duration=2500&pause=500&color=00FF03&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Muhammad+Alfiyan;University+Student;Security+Researcher)](https://git.io/typing-svg)
   
   </div>
-
-  ![rainbow](https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76)
   
   ### About 
   
@@ -35,7 +33,7 @@ Hi Here are some ideas to get you started:
 
   ### <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" /></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" /></a> <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="30" /></a> <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="30" />
   
-  ![rainbow](https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76)
+  <!--![rainbow](https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76)-->
   
   ### Status
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&layout=compact&size_weight=0.5&count_weight=0.5&hide=html,css)
