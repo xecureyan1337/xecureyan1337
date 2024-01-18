@@ -21,10 +21,8 @@ Hi Here are some ideas to get you started:
   ### About 
   
   <!-- 🔭 I’m currently working on ...-->
-  🧑‍🎓 A university student 21 years old 🇮🇩 </br>
-  🚀 have been learning cyber security (red team) for 2 years</br>
-  🖥️ have been using linux operating system (debian) for 2 years </br> <!-- 📫 How to reach me: -->
-  🧣 enjoy to learn new things especially IT Security </br>
+  <!-- 📫 How to reach me: -->
+  🧑‍🎓 A university student 21 years old. I have been learning cyber security (red team) and using linux operating system (debian) for 2 years🐧 and I enjoy to learn new things especially IT Security🧣</br>
   
   ### Language and Tools 
 
