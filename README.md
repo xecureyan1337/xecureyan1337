@@ -35,7 +35,6 @@ Hi Here are some ideas to get you started:
   
   ### Status
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&layout=compact&size_weight=0.5&count_weight=0.5&hide=html,css)
-  [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=realalf1&theme=hacker)](https://github.com/ignacio-cuadra/github-readme-codewars)
   
 </div>  
 
