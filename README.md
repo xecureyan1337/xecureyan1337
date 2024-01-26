@@ -32,7 +32,6 @@ Hi Here are some ideas to get you started:
 
   ### <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" /></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" /></a> <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="30" /></a> <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="30" />
   
-  <!--![rainbow](https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76)-->
   
   ### Status
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalf1&layout=compact&size_weight=0.5&count_weight=0.5&hide=html,css)
@@ -41,4 +40,5 @@ Hi Here are some ideas to get you started:
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=realalf1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
+  ![rainbow](https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76)
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanto" alt="yanto" /></a> </p> -->
