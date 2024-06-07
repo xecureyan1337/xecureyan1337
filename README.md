@@ -23,7 +23,7 @@ Hi Here are some ideas to get you started:
   
   <!-- 🔭 I’m currently working on ...-->
   <!-- 📫 How to reach me: -->
-  🧑‍🎓 A university student 22 years old. I have been learning cyber security (red team) and using ubuntu linux operating system for 3 years. In other hand, I enjoy to learn new things especially in IT Security fields. Currently, I'm doing Cyber Security Internship as Penetration Tester and doing freelance for fun. </br>
+  🧑‍🎓 A university student 22 years old. I have been learning cyber security (red team) and using ubuntu linux operating system for 3 years. In other hand, I enjoy to learn new things especially in IT Security fields. Currently, I'm doing Cyber Security Internship as Penetration Tester and freelance for fun. </br>
   
   ### Language and Tools 
 
