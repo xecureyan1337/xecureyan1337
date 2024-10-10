@@ -34,7 +34,7 @@ Hi Here are some ideas to get you started:
   
   
   ### Status
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xecureyan11&layout=compact&size_weight=0.5&count_weight=0.5&hide=html,css)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xecureyan11&layout=compact&size_weight=0.5&count_weight=0.5)
   
 </div>  
 
