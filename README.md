@@ -40,5 +40,5 @@ Hi Here are some ideas to get you started:
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=realalf1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-  ![rainbow](https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76)
+  ![rainbow]([https://github.com/realalf1/realalf1/assets/152812058/8d576a70-998e-4bb4-a376-d13b0ac64a76](https://github-production-user-asset-6210df.s3.amazonaws.com/152812058/296819720-8d576a70-998e-4bb4-a376-d13b0ac64a76.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241010%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241010T170943Z&X-Amz-Expires=300&X-Amz-Signature=15f4c5498379adb925ef7b311867796eef2b420d9faee25f80a0627493b01ac0&X-Amz-SignedHeaders=host))
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanto" alt="yanto" /></a> </p> -->
