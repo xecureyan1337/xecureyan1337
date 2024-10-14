@@ -9,7 +9,7 @@ Hi Here are some ideas to get you started:
 
   ### ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e)
   <a href="https://wakatime.com/@018cf740-aa90-4fb4-87ae-c6a2917b2dbf"><img src="https://wakatime.com/badge/user/018cf740-aa90-4fb4-87ae-c6a2917b2dbf.svg" alt="Total time coded since Jan 11 2024" /></a> </br>
-  <a href="https://komarev.com/ghpvc/?username=xecureyan1337&color=orange&label=Profile+Visit">![](https://komarev.com/ghpvc/?username=xecureyan1337&color=orange&label=Profile+Visit) </a> </br>
+  <a href="https://komarev.com/ghpvc/?username=xecureyan1337&color=orange&label=Profile+Visit&abbreviated=true">![](https://komarev.com/ghpvc/?username=xecureyan1337&color=orange&label=Profile+Visit&abbreviated=true) </a> </br>
   <!--![alfiyan255](https://www.hackthebox.eu/badge/image/1345299) </br> -->
   <a href="https://t.me/realalf1"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/xecureyan/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
