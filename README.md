@@ -33,8 +33,8 @@ Hi Here are some ideas to get you started:
   ### <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" /></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" /></a>
   
   
-  ### Status
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xecureyan1337&layout=compact&size_weight=0.5&count_weight=0.5)
+  ### Statistic
+  <kbd> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xecureyan1337&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"> </kbd> <kbd> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xecureyan1337&layout=compact&size_weight=0.5&count_weight=0.5) </kbd>
   
 </div>  
 
