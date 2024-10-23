@@ -37,7 +37,7 @@ Hi Here are some ideas to get you started:
   
   
   ### Statistic
-  <kbd> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xecureyan1337&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"> </kbd> <kbd> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xecureyan1337&layout=compact&size_weight=0.5&count_weight=0.5) </kbd>
+  <kbd> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xecureyan1337&show_icons=true&theme=algolia&include_all_commits=true"> </kbd> <kbd> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xecureyan1337&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark) </kbd> <img src="https://github-profile-trophy.vercel.app/?username=xecureyan1337&theme=juicyfresh">
   
 </div>  
 
