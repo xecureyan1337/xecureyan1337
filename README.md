@@ -61,6 +61,7 @@ Hi Here are some ideas to get you started:
   <p style="text-align:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=xecureyan1337&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xecureyan1337&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px />
+    <img src="https://github-profile-trophy.vercel.app/?username=xecureyan1337&theme=juicyfresh&row=2&column=7">
   </p>
   
 </div>  
