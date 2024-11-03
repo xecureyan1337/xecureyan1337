@@ -7,7 +7,7 @@ Hi Here are some ideas to get you started:
 -->
   <div align="center">
 
-  ### ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e)
+  ## ![swag_linux](https://github.com/realalf1/realalf1/assets/152812058/28f0e289-6b62-4687-971a-f10560c0be6e)
   <a href="https://wakatime.com/@018cf740-aa90-4fb4-87ae-c6a2917b2dbf"><img src="https://wakatime.com/badge/user/018cf740-aa90-4fb4-87ae-c6a2917b2dbf.svg" alt="Total time coded since Jan 11 2024" /></a> </br>
   <a href="https://komarev.com/ghpvc/?username=xecureyan1337&color=orange&label=Profile+Visit&abbreviated=true">![](https://komarev.com/ghpvc/?username=xecureyan1337&color=orange&label=Profile+Visit&abbreviated=true) </a> </br>
   <!--![alfiyan255](https://www.hackthebox.eu/badge/image/1345299) </br> -->
@@ -20,18 +20,12 @@ Hi Here are some ideas to get you started:
   
   </div>
   
-  ### About 
+  ## 📙 About
   
-  <!-- 🔭 I’m currently working on ...-->
-  <!-- 📫 How to reach me: -->
-  🧑‍🎓 A university student 22 years old. I have been learning cyber security (red team) and using ubuntu linux operating system for 3 years. In other hand, I enjoy to learn new things especially in IT Security fields. Currently, I'm doing Cyber Security Internship as Penetration Tester and freelance for fun.</br>
+  🧑‍🎓 A university student 22 years old. I have been learning cyber security (red team) and using ubuntu linux operating system for 3 years. In other hand, I enjoy to learn new things especially in IT Security fields. Currently, I'm doing Cyber Security Internship as Penetration Tester and freelance for fun. </br>
   
-  ### Language and Tools 
+  ## ⚙️ Language and Tools 
 
-  <!--<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/></a> 
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node js" width="30" height="30" /></a>-->
-
-  ### 
   <kbd>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> 
@@ -53,14 +47,19 @@ Hi Here are some ideas to get you started:
   <kbd>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" />
-    </a> 
+    </a>
   </kbd>
   
-  ### GitHub Stats
+  ## 📊 GitHub Stats
   
   <p style="text-align:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=xecureyan1337&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xecureyan1337&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px />
+  </p>
+
+  ## 🏆 Trophies 
+  
+  <p style="text-align:center;">
     <img src="https://github-profile-trophy.vercel.app/?username=xecureyan1337&theme=juicyfresh&row=2&column=7">
   </p>
   
