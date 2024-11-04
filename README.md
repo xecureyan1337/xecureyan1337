@@ -62,6 +62,8 @@ Hi Here are some ideas to get you started:
   <p style="text-align:center;">
     <img src="https://github-profile-trophy.vercel.app/?username=xecureyan1337&theme=juicyfresh&row=2&column=7">
   </p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 </div>  
 
