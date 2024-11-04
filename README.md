@@ -50,10 +50,10 @@ Hi Here are some ideas to get you started:
     </a>
   </kbd>
   
-  ## 📊 GitHub Stats
+  ## 📊 Stats
   
   <p style="text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=xecureyan1337&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xecureyan1337&theme=github_dark_dimmed" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xecureyan1337&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px />
   </p>
 
