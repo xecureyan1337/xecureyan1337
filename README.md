@@ -59,7 +59,7 @@ Hi Here are some ideas to get you started:
   ## 🏆 Trophies 
   
   <p style="text-align:center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xecureyan1337&theme=juicyfresh&row=2&column=7">
+    <img src="https://camo.githubusercontent.com/412fb02ae43b54f5e6918a5ab3bedf1dad8a40a6d1c0043084003b552d825a2a/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d78656375726579616e31333337267468656d653d6a75696379667265736826726f773d3226636f6c756d6e3d37">
   </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
