@@ -10,9 +10,7 @@ Hi Here are some ideas to get you started:
 
   <!--source: https://readme-typing-svg.demolab.com/demo/-->
   [![Typing SVG](https://readme-typing-svg.demolab.com?weight=300&duration=2500&pause=500&color=00FF03&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Muhammad+Alfiyan;University+Student;Security+Researcher)](https://git.io/typing-svg)
-  
- <img src="https://tryhackme-badges.s3.amazonaws.com/xecureyan1337.png" alt="Tryhackme" />
-  
+    
   <a href="https://wakatime.com/@018cf740-aa90-4fb4-87ae-c6a2917b2dbf"><img src="https://wakatime.com/badge/user/018cf740-aa90-4fb4-87ae-c6a2917b2dbf.svg" alt="Total time coded since Jan 11 2024" /></a> </br>
  <a href="https://komarev.com/ghpvc/?username=xecureyan1337&color=orange&label=Profile+Visit&abbreviated=true">![](https://komarev.com/ghpvc/?username=xecureyan1337&color=orange&label=Profile+Visit&abbreviated=true) </a> </br>
   <!--![alfiyan255](https://www.hackthebox.eu/badge/image/1345299) </br> -->
